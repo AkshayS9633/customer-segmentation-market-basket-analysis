@@ -72,5 +72,5 @@ A grocery retailer wanted to identify frequently co-purchased items to design co
 - Use rule-based product placement to increase basket size
 - Target promotions using confidence/lift thresholds to prioritize the highest-impact bundles
 
-**Tools:** KNIME (Association Rule Mining / Apriori)
+**Tools:** KNIME (Association Rule Mining)
 
